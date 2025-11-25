@@ -1,4 +1,11 @@
 ## Hi there 👋
+I am a hardworking person who fell in love with coding and designing, i am always up for learning and bettering myself. 
+
+I am currently learning html, css, Javascript, bootstrap and more. 
+
+I use tools like vsode, and in the future figma and more
+
+To reach me you can contact me on my social media linked below. 
 
 <!--
 **anicaeng/anicaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
